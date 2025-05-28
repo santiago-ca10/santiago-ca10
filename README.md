@@ -1,5 +1,4 @@
-# 💫 About Me:
-Programador JR
+# 💫 About Me: Programador JR
 
 
 # 💻 Tech Stack:
