@@ -8,7 +8,8 @@ Programador Junior
 ![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiago-ca10&show_icons=true&theme=dark)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=santiago-ca10&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=santiago-ca10&theme=dark&hide_border=true)
+
 
 
 
