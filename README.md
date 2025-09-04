@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programador Junior
+Junior Programmer
 
 
 ## 🌐 Socials:
