@@ -7,7 +7,6 @@ Junior Programmer
 # 📊 GitHub Stats:
 ![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiago-ca10&show_icons=true&theme=dark) 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=santiago-ca10&theme=dark&hide_border=true&v=2)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-ca10&langs_count=10&hide=Jupyter%20Notebook&theme=dark&hide_border=true)
 
