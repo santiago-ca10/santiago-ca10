@@ -3,6 +3,8 @@ Junior Programmer
 
 Analista de datos
 
+Informática forense 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-cárdenas-aldana-a53941311) 
