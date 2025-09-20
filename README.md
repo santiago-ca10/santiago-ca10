@@ -1,7 +1,7 @@
 # 💫 About Me:
 Junior Programmer
 
-Analista de datos
+Data Analyst
 
 Informática forense 
 
