@@ -3,7 +3,6 @@ Junior Programmer
 
 Data Analyst
 
-Informática forense 
 
 
 ## 🌐 Socials:
