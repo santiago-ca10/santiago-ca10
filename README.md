@@ -1,7 +1,6 @@
 # 💫 About Me:
 Junior Programmer
 
-Data Analyst
 
 
 
