@@ -11,8 +11,7 @@ Junior Programmer
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-ca10&langs_count=10&hide=Jupyter%20Notebook&theme=dark&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-ca10&layout=compact&theme=dark)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-ca10&langs_count=10&hide=Jupyter%20Notebook&theme=dark&hide_border=true&count_private=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
