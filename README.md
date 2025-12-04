@@ -18,8 +18,7 @@ Junior Programmer
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-ca10&theme=dark&hide_border=true&langs_count=10&hide=Jupyter%20Notebook)
-
+![Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santiago-ca10&theme=dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
