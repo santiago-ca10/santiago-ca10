@@ -11,12 +11,6 @@ Junior Programmer
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=santiago-ca10&theme=dark&hide_border=false)<br/>
 
-[![](https://visitcount.itsvg.in/api?id=santiago-ca10&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
