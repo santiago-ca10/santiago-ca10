@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Junior Programmer full stack 
+Junior Programmer
 
 Software Engineering Student
 
