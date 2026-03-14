@@ -20,3 +20,5 @@ Software Engineering Student
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+[![Mis Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=santiago-ca10&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
