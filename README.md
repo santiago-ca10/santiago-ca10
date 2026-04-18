@@ -51,7 +51,7 @@ Soy un **Ingeniero de Software en formación** apasionado por la programación y
 
 ## 🚧 Proyecto en Desarrollo
 
-Actualmente me encuentro desarrollando una aplicación enfocada en el backend, aplicando buenas prácticas de arquitectura y tecnologías modernas.
+Actualmente me encuentro desarrollando una aplicación, aplicando buenas prácticas de arquitectura y tecnologías modernas.
 
 ### ⚙️ Características en desarrollo
 - Autenticación de usuarios
