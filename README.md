@@ -90,6 +90,6 @@ En desarrollo activo. Actualmente trabajando en la implementación de lógica de
 
 ---
 
-> *"El código es poesía, y la programación es el arte de contar historias a través de máquinas"* 💻✨
+> *"Yo solo construyo sistemas… ella construyó en mí algo que ni la inteligencia artificial podría explicar."* 💻✨
 
 
