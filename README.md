@@ -1,95 +1,172 @@
-# 👋 ¡Hola! Soy Santiago
+<div align="center">
 
-## 🎯 Sobre Mí
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Santiago+%F0%9F%91%8B;Ingeniero+de+Software+en+formaci%C3%B3n;Full+Stack+Developer;Siempre+construyendo+algo+nuevo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-Soy un **Ingeniero de Software en formación** apasionado por la programación y el desarrollo de soluciones innovadoras. Con experiencia en **desarrollo full-stack**, me especializo en crear aplicaciones robustas y eficientes utilizando diversas tecnologías.
+<img src="https://avatars.githubusercontent.com/u/204885107?v=4" width="150" style="border-radius:50%;" alt="Santiago"/>
 
-### 💡 Mis Intereses
-- 🚀 Desarrollo de aplicaciones web y de escritorio
-- 💾 Bases de datos y arquitectura de software
-- 🎨 Diseño de interfaces intuitivas
-- 🤝 Trabajo colaborativo y metodologías ágiles
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-cárdenas-aldana-a53941311)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@06_sca_10)
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santiago-ca10)
+
+![Profile Views](https://komarev.com/ghpvc/?username=santiago-ca10&color=58A6FF&style=flat-square&label=Visitas+al+perfil)
+
+</div>
 
 ---
 
-## 💻 Stack Tecnológico
+## 👨‍💻 Sobre Mí
 
-**Lenguajes de Programación:**
+Soy **Santiago C A**, estudiante de Ingeniería de Software apasionado por construir soluciones reales a problemas reales. Me muevo cómodo entre el frontend y el backend, y disfruto especialmente cuando los dos mundos se conectan de forma elegante.
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- 🎯 Buscando mi **primera oportunidad profesional** en desarrollo de software
+- 🤖 Explorando **inteligencia artificial aplicada** en proyectos reales
+- 🌱 Profundizando en **arquitectura de software** y buenas prácticas
+- 🔧 Fan del código limpio, arquitectura por capas y Docker
+- 📍 Colombia 🇨🇴
+
+> *"Yo solo construyo sistemas… ella construyó en mí algo que ni la inteligencia artificial podría explicar."* 💻✨
+
+---
+
+## 🚀 Proyectos Destacados
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛍️ ShopMind — IA aplicada</h3>
+      <p align="center">
+        <a href="https://github.com/santiago-ca10/ShopMind">
+          <img src="https://img.shields.io/badge/Ver%20Repo-121011?style=for-the-badge&logo=github" alt="Repo"/>
+        </a>
+        <a href="https://youtu.be/Pzr6aAGeNiQ">
+          <img src="https://img.shields.io/badge/Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video"/>
+        </a>
+      </p>
+      <p>Tienda fullstack con carrito persistente, panel admin y <strong>asistente de IA</strong> que recomienda productos según presupuesto y necesidad. Mi primer proyecto con IA integrada.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🐔 Avicontrol</h3>
+      <p align="center">
+        <a href="https://github.com/santiago-ca10/Avicontrol">
+          <img src="https://img.shields.io/badge/Ver%20Repo-121011?style=for-the-badge&logo=github" alt="Repo"/>
+        </a>
+      </p>
+      <p>Sistema web para gestión de granjas avícolas: registro de gallinas, control de producción de huevos y estadísticas en tiempo real.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🌐 COPCOL Web</h3>
+      <p align="center">
+        <a href="https://github.com/santiago-ca10/COPCOL_web">
+          <img src="https://img.shields.io/badge/Ver%20Repo-121011?style=for-the-badge&logo=github" alt="Repo"/>
+        </a>
+        <a href="https://santiago-ca10.github.io/COPCOL_web/">
+          <img src="https://img.shields.io/badge/Demo%20Live-58A6FF?style=for-the-badge&logo=githubpages&logoColor=white" alt="Demo"/>
+        </a>
+      </p>
+      <p>Sitio web corporativo con diseño moderno, animaciones suaves y despliegue automatizado con GitHub Pages.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🥛 FoodChain Manager</h3>
+      <p align="center">
+        <a href="https://github.com/santiago-ca10/FoodChain_Manager">
+          <img src="https://img.shields.io/badge/Ver%20Repo-121011?style=for-the-badge&logo=github" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/Estado-En%20desarrollo-yellow?style=for-the-badge"/>
+      </p>
+      <p>Sistema de gestión para empresa lechera — proyecto personal en desarrollo activo. Arquitectura sólida en construcción.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Stack Tecnológico
+
+**Lenguajes**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=coffeescript&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%2368217A.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-**Frontend:**
+**Frontend**
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-**Backend:**
+**Backend & Bases de Datos**
 
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Frameworks & Herramientas:**
+**Herramientas**
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
-**Bases de datos**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 🚧 Proyecto en Desarrollo
-
-Actualmente me encuentro desarrollando una aplicación, aplicando buenas prácticas de arquitectura y tecnologías modernas.
-
-### ⚙️ Características en desarrollo
-- Autenticación de usuarios
-- Gestión de recursos mediante API REST
-- Integración con base de datos PostgreSQL
-- Contenerización con Docker
-
-### 🧠 Enfoque
-Este proyecto está orientado a la construcción de una API REST, con manejo de base de datos relacional, estructuración por capas y despliegue mediante contenedores.
-
-### 📌 Estado
-En desarrollo activo. Actualmente trabajando en la implementación de lógica de negocio, persistencia de datos y estructuración del proyecto.
-
-[![Ver Repositorio](https://img.shields.io/badge/Repositorio-FoodChain_Manager-181717?style=for-the-badge&logo=github)](https://github.com/santiago-ca10/FoodChain_Manager)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ---
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=santiago-ca10&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santiago-ca10&layout=compact&theme=radical)
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=santiago-ca10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santiago-ca10&layout=compact&theme=github_dark&hide_border=true"/>
 
----
+</div>
 
-## 🌐 Conéctate Conmigo
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-cárdenas-aldana-a53941311) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@06_sca_10)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santiago-ca10)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=santiago-ca10&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
----
-
-### ✍️ Reflexión del Día
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ---
 
-> *"Yo solo construyo sistemas… ella construyó en mí algo que ni la inteligencia artificial podría explicar."* 💻✨
+## ✍️ Reflexión del Día
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+  <i>Gracias por visitar mi perfil — siempre hay algo nuevo en construcción 🔨</i>
+</div>
 
 
