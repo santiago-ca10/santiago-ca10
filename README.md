@@ -184,9 +184,3 @@ Soy **Santiago Cárdenas**, estudiante de Ingeniería de Software apasionado por
 </div>
 
 ---
-
-<div align="center">
-  <i>Gracias por visitar mi perfil — siempre hay algo nuevo en construcción 🔨</i>
-</div>
-
-
