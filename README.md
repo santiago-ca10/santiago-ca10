@@ -8,15 +8,13 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@06_sca_10)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/santiago-ca10)
 
-![Profile Views](https://komarev.com/ghpvc/?username=santiago-ca10&color=58A6FF&style=flat-square&label=Visitas+al+perfil)
-
 </div>
 
 ---
 
 ## 👨‍💻 Sobre Mí
 
-Soy **Santiago C A**, estudiante de Ingeniería de Software apasionado por construir soluciones reales a problemas reales. Me muevo cómodo entre el frontend y el backend, y disfruto especialmente cuando los dos mundos se conectan de forma elegante.
+Soy **Santiago Cárdenas**, estudiante de Ingeniería de Software apasionado por construir soluciones reales a problemas reales. Me muevo cómodo entre el frontend y el backend, y disfruto especialmente cuando los dos mundos se conectan de forma elegante.
 
 - 🎯 Buscando mi **primera oportunidad profesional** en desarrollo de software
 - 🤖 Explorando **inteligencia artificial aplicada** en proyectos reales
@@ -56,8 +54,11 @@ Soy **Santiago C A**, estudiante de Ingeniería de Software apasionado por const
         <a href="https://github.com/santiago-ca10/Avicontrol">
           <img src="https://img.shields.io/badge/Ver%20Repo-121011?style=for-the-badge&logo=github" alt="Repo"/>
         </a>
+        <a href="https://youtu.be/QmPBbESu8cw">
+          <img src="https://img.shields.io/badge/Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video"/>
+        </a>
       </p>
-      <p>Sistema web para gestión de granjas avícolas: registro de gallinas, control de producción de huevos y estadísticas en tiempo real.</p>
+      <p>Sistema web para gestión de granjas avícolas: registro de gallinas, control de producción de huevos y estadísticas en tiempo real con dashboard interactivo.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB"/>
         <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
@@ -89,7 +90,7 @@ Soy **Santiago C A**, estudiante de Ingeniería de Software apasionado por const
         <a href="https://github.com/santiago-ca10/FoodChain_Manager">
           <img src="https://img.shields.io/badge/Ver%20Repo-121011?style=for-the-badge&logo=github" alt="Repo"/>
         </a>
-        <img src="https://img.shields.io/badge/Estado-En%20desarrollo-yellow?style=for-the-badge"/>
+        <img src="https://img.shields.io/badge/En%20desarrollo-yellow?style=for-the-badge"/>
       </p>
       <p>Sistema de gestión para empresa lechera — proyecto personal en desarrollo activo. Arquitectura sólida en construcción.</p>
       <p>
@@ -98,6 +99,18 @@ Soy **Santiago C A**, estudiante de Ingeniería de Software apasionado por const
     </td>
   </tr>
 </table>
+
+---
+
+## 📁 Otros Proyectos
+
+| | Proyecto | Stack | |
+|---|----------|-------|---|
+| 🎓 | **MiDocente** — Gestión CRUD de docentes universitarios con API REST y video demo | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/MiDocente) |
+| 📝 | **NoteVault** — App de escritorio para notas con MongoDB, Docker y tests con pytest | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/notevault) |
+| 💰 | **Generador de Presupuestos** — App de escritorio que genera PDFs profesionales para freelancers | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/Generador-de-presupuestos) |
+| 🏢 | **Empresa Tech Fullstack** — App fullstack CRUD de empleados con arquitectura cliente-servidor | ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/empresa-tech-fullstack) |
+| 💌 | **Digital Letter** — Carta digital interactiva, donde el código se volvió algo más | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/digital_letter) |
 
 ---
 
@@ -161,6 +174,13 @@ Soy **Santiago C A**, estudiante de Ingeniería de Software apasionado por const
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+</div>
+
+---
+
+<div align="center">
+  <i>Gracias por visitar mi perfil — siempre hay algo nuevo en construcción 🔨</i>
+</div>
 </div>
 
 ---
