@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Santiago;Ingeniero+de+Software+en+formaci%C3%B3n;Full+Stack+Developer;Siempre+construyendo+algo+nuevo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Santiago+%F0%9F%91%8B;Ingeniero+de+Software+en+formaci%C3%B3n;Full+Stack+Developer;Siempre+construyendo+algo+nuevo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <img src="https://avatars.githubusercontent.com/u/204885107?v=4" width="150" style="border-radius:50%;" alt="Santiago"/>
 
@@ -14,12 +14,12 @@
 
 ## 👨‍💻 Sobre Mí
 
-Soy **Santiago Cárdenas**, estudiante de Ingeniería de Software apasionado por construir soluciones reales a problemas reales. Me muevo cómodo entre el frontend y el backend, y disfruto especialmente cuando los dos mundos se conectan de forma elegante.
+Soy **Santiago Cárdenas**, estudiante de Ingeniería de Software con certificación universitaria como **Desarrollador Junior**. Construyo proyectos fullstack desde cero — con base en arquitectura por capas, buenas prácticas y tecnologías reales.
 
-- 🎯 Buscando mi **primera oportunidad profesional** en desarrollo de software
-- 🤖 Explorando **inteligencia artificial aplicada** en proyectos reales
-- 🌱 Profundizando en **arquitectura de software** y buenas prácticas
-- 🔧 Fan del código limpio, arquitectura por capas y Docker
+- 🎓 Certificado como **Junior Developer** por mi universidad
+- 🤖 Aplicando **inteligencia artificial** en proyectos propios
+- 🔧 Disfruto el código limpio, Docker y las soluciones bien pensadas
+- 🎮 Explorando desarrollo de videojuegos con Roblox Studio
 - 📍 Colombia 🇨🇴
 
 > *"Yo solo construyo sistemas… ella construyó en mí algo que ni la inteligencia artificial podría explicar."* 💻✨
@@ -102,18 +102,6 @@ Soy **Santiago Cárdenas**, estudiante de Ingeniería de Software apasionado por
 
 ---
 
-## 📁 Otros Proyectos
-
-| | Proyecto | Stack | |
-|---|----------|-------|---|
-| 🎓 | **MiDocente** — Gestión CRUD de docentes universitarios con API REST y video demo | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/MiDocente) |
-| 📝 | **NoteVault** — App de escritorio para notas con MongoDB, Docker y tests con pytest | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/notevault) |
-| 💰 | **Generador de Presupuestos** — App de escritorio que genera PDFs profesionales para freelancers | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/Generador-de-presupuestos) |
-| 🏢 | **Empresa Tech Fullstack** — App fullstack CRUD de empleados con arquitectura cliente-servidor | ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/empresa-tech-fullstack) |
-| 💌 | **Digital Letter** — Carta digital interactiva, donde el código se volvió algo más | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/digital_letter) |
-
----
-
 ## 🛠️ Stack Tecnológico
 
 **Lenguajes**
@@ -178,9 +166,19 @@ Soy **Santiago Cárdenas**, estudiante de Ingeniería de Software apasionado por
 
 ---
 
+## 📁 Otros Proyectos
+
+| | Proyecto | Stack | |
+|---|----------|-------|---|
+| 🎓 | **MiDocente** — Gestión CRUD de docentes universitarios con API REST y video demo | ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/MiDocente) |
+| 📝 | **NoteVault** — App de escritorio para notas con MongoDB, Docker y tests con pytest | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/notevault) |
+| 💰 | **Generador de Presupuestos** — App de escritorio que genera PDFs profesionales para freelancers | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/Generador-de-presupuestos) |
+| 🏢 | **Empresa Tech Fullstack** — App fullstack CRUD de empleados con arquitectura cliente-servidor | ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/empresa-tech-fullstack) |
+| 💌 | **Digital Letter** — Carta digital interactiva, donde el código se volvió algo más | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/digital_letter) |
+| 🎮 | **Roblox Game** *(en desarrollo)* — Videojuego colaborativo en Roblox Studio junto a [![Autumnnx](https://img.shields.io/badge/@Autumnnx-121011?style=flat-square&logo=github)](https://github.com/Autumnnx) | ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) | [![Jugar](https://img.shields.io/badge/Roblox-Ver%20juego-red?style=flat-square&logo=roblox)](https://www.roblox.com/share?code=5e4f48559c5b3f4c8500af25dc507b58&type=ExperienceDetails&stamp=1780782991920) |
+
+---
+
 <div align="center">
   <i>Gracias por visitar mi perfil — siempre hay algo nuevo en construcción 🔨</i>
 </div>
-</div>
-
----
