@@ -16,7 +16,7 @@
 
 Soy **Santiago Cárdenas**, estudiante de Ingeniería de Software con certificación universitaria como **Desarrollador Junior**. Construyo proyectos fullstack desde cero — con base en arquitectura por capas, buenas prácticas y tecnologías reales.
 
-- 🎓 Certificado como **Junior Developer**
+- 🎓 Certificado como **Junior Developer** por mi universidad
 - 🤖 Aplicando **inteligencia artificial** en proyectos propios
 - 🔧 Disfruto el código limpio, Docker y las soluciones bien pensadas
 - 🎮 Explorando desarrollo de videojuegos con Roblox Studio
@@ -144,6 +144,7 @@ Soy **Santiago Cárdenas**, estudiante de Ingeniería de Software con certificac
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=santiago-ca10&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=santiago-ca10&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -174,7 +175,7 @@ Soy **Santiago Cárdenas**, estudiante de Ingeniería de Software con certificac
 | 💰 | **Generador de Presupuestos** — App de escritorio que genera PDFs profesionales para freelancers | ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/Generador-de-presupuestos) |
 | 🏢 | **Empresa Tech Fullstack** — App fullstack CRUD de empleados con arquitectura cliente-servidor | ![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/-React-20232a?style=flat-square&logo=react&logoColor=61DAFB) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/empresa-tech-fullstack) |
 | 💌 | **Digital Letter** — Carta digital interactiva, donde el código se volvió algo más | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | [![Repo](https://img.shields.io/badge/Ver-121011?style=flat-square&logo=github)](https://github.com/santiago-ca10/digital_letter) |
-| 🎮 | **Roblox Game** *(en desarrollo)* — Videojuego colaborativo en Roblox Studio junto a <br> [![Autumnnx](https://img.shields.io/badge/@Autumnnx-121011?style=flat-square&logo=github)](https://github.com/Autumnnx) | ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) | [![Jugar](https://img.shields.io/badge/Roblox-Ver%20juego-red?style=flat-square&logo=roblox)](https://www.roblox.com/share?code=5e4f48559c5b3f4c8500af25dc507b58&type=ExperienceDetails&stamp=1780782991920) |
+| 🎮 | **Roblox Game** *(en desarrollo)* — Videojuego colaborativo en Roblox Studio junto a [![Autumnnx](https://img.shields.io/badge/@Autumnnx-121011?style=flat-square&logo=github)](https://github.com/Autumnnx) | ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white) | [![Jugar](https://img.shields.io/badge/Roblox-Ver%20juego-red?style=flat-square&logo=roblox)](https://www.roblox.com/share?code=5e4f48559c5b3f4c8500af25dc507b58&type=ExperienceDetails&stamp=1780782991920) |
 
 ---
 
